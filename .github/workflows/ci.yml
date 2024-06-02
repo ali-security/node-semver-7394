@@ -51,7 +51,7 @@ jobs:
             os: ubuntu-latest
             shell: bash
           - name: macOS
-            os: macos-latest
+            os: macos-13
             shell: bash
           - name: Windows
             os: windows-latest
